@@ -1,4 +1,5 @@
 baseURL = "/"
+relativeUrls = true
 title = "KINAKUTA"
 theme = "etch"
 languageCode = "en-US"

@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Kinakuta Cryptographic Data Haven"
+  description = "Kinakuta Virtual Cryptographic Data Haven"
   copyright = "Copyright © 2021 Twenty7Zero2"
   dark = "auto"
   highlight = true
